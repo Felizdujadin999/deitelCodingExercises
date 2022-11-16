@@ -1,0 +1,20 @@
+import java.util.scanner;
+public class TableOfSquaresAndCubes { 
+	public static void main (String[] args) {
+	int 0 = 0 square();
+	int 0 = 0 cube();
+         int 0 = 0 *0;
+         int 0 = 0 * 0 * 0;
+	  System.out.printf(" 0   %d   %d ", 0);
+
+
+
+
+
+
+
+
+  }
+	    
+
+}
